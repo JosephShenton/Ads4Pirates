@@ -1,0 +1,9 @@
+Package: digital.jjs.ads4pirates
+Name: Ads4Pirates
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: JJS Digital Pty Ltd
+Author: JJS Digital Pty Ltd
+Section: Tweaks
